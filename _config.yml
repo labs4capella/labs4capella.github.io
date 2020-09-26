@@ -1,4 +1,9 @@
-theme: jekyll-theme-cayman
+# Site settings
 title: Labs for Capella
 email: labs4capella@gmail.com
 description: Labs for Capella aims at providing the Eclipse Capella ecosystem with a creativity and innovation space.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
